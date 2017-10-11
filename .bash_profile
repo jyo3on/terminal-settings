@@ -26,10 +26,9 @@
 #   ------------------------------------------------------------
     export PATH="$PATH:/usr/local/bin/"
     export PATH="/usr/local/git/bin:/sw/bin/:/usr/local/bin:/usr/local/:/usr/local/sbin:/usr/local/mysql/bin:$PATH"
-    # for virtualenv
-    export WORKON_HOME=~/.virtualenvs
-    VIRTUALENVWRAPPER_PYTHON='/usr/local/bin/python3'
-    source /usr/local/bin/virtualenvwrapper.sh
+    export WORKON_HOME=~/.virtualenvs # tells virtualenvwrapper where to store the future virtualenvs that will be created
+    VIRTUALENVWRAPPER_PYTHON='/usr/local/bin/python3' # runs a script to make the updates permanent
+    source /usr/local/bin/virtualenvwrapper.sh 
 
 #   Set Default Editor (my choice is Vim)
 #   ------------------------------------------------------------
