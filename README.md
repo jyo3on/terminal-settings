@@ -1,4 +1,9 @@
 # terminal-settings
-💻  my terminal settings in .bash_profile
+💻  my terminal settings
 
-*Forked from [stephenll/.bash_profile](https://gist.github.com/stephenll/8762279)*
+
+
+### Ref
+[stephenll/.bash_profile](https://gist.github.com/stephenll/8762279)
+
+[kelvinh111/dotfiles](https://github.com/kelvinh111/dotfiles)
